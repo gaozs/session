@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"gitee.com/gaozhisheng/session"
-	"gitee.com/gaozhisheng/slog"
+	"gaozs.ddns.net/go/session"
+	"gaozs.ddns.net/go/slog"
 )
 
 var pder = &Provider{}

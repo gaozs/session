@@ -1,5 +1,4 @@
-module gitee.com/gaozhisheng/session
+module gaozs.ddns.net/go/session
 
 go 1.16
 
-require gitee.com/gaozhisheng/slog v0.0.0-20210303065614-fa98756c654b

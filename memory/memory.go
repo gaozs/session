@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"gitee.com/gaozhisheng/session"
+	"gaozs.ddns.net/go/session"
 )
 
 var pder = &Provider{list: list.New()}
