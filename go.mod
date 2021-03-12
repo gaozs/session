@@ -1,5 +1,5 @@
-module gaozs.ddns.net/go/session
+module gaozs.ddns.net/go/util/session
 
 go 1.16
 
-require gaozs.ddns.net/go/slog v1.0.0
+require gaozs.ddns.net/go/util/slog v1.0.0

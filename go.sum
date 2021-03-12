@@ -1,2 +1,2 @@
-gaozs.ddns.net/go/slog v1.0.0 h1:SM+us4SswzKXNMTz4K1Z+F0dUZvF243U2ruXPQ1voiM=
-gaozs.ddns.net/go/slog v1.0.0/go.mod h1:5hLfAOszWybLzJx35nbp3m3e01qweDf7iS5Ef/XPrYo=
+gaozs.ddns.net/go/util/slog v1.0.0 h1:8uaz9OWZvO/p7c7hnou4C7owuHnLu9ki2cIp/3Azcqg=
+gaozs.ddns.net/go/util/slog v1.0.0/go.mod h1:uFEPJ3y0C7nkPzPyRxkj/tdlYn6Z4ILEgkVFPbxMKx4=
