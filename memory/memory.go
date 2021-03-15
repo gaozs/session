@@ -9,7 +9,7 @@ import (
 	"sync"
 	"time"
 
-	"gaozs.ddns.net/go/util/session"
+	"cloudgao.vicp.net/go/util/session"
 )
 
 var pder = &Provider{list: list.New()}

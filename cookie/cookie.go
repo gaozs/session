@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"gaozs.ddns.net/go/util/session"
-	"gaozs.ddns.net/go/util/slog"
+	"cloudgao.vicp.net/go/util/session"
+	"cloudgao.vicp.net/go/util/slog"
 )
 
 var pder = &Provider{}
