@@ -12,8 +12,8 @@ import (
 	"sync"
 	"time"
 
-	"cloudgao.vicp.net/go/util/session"
-	"cloudgao.vicp.net/go/util/slog"
+	"github.com/gaozs/session"
+	"github.com/gaozs/slog"
 )
 
 var pder = &Provider{}

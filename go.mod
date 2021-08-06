@@ -1,5 +1,5 @@
-module cloudgao.vicp.net/go/util/session
+module github.com/gaozs/session
 
 go 1.16
 
-require cloudgao.vicp.net/go/util/slog v1.0.1
+require github.com/gaozs/slog v1.0.0
